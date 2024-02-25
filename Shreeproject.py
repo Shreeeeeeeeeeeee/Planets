@@ -10,6 +10,7 @@ pla=st.radio('Select the planet',("Sun","Mercury","Venus","Earth","Mars","Jupite
 
 #SUN
 
+st.image("36dg.gif",caption="The Sun")
 def starsun():
     sun=np.linspace(0,2*np.pi,5000)
     a=0.00464
