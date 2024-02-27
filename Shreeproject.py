@@ -18,7 +18,6 @@ pla9=st.checkbox("Neptune")
 pla10=st.checkbox("Pluto")
 pla11=st.checkbox("Haleys Comet")
 pla12=st.checkbox("All")
-#pla=st.radio('Select the planet',("Sun","Mercury","Venus","Earth","Mars","Jupiter","Saturn","Uranus","Neptune","Pluto","Haleys Comet","All"))
 
 #SUN
 
@@ -535,41 +534,5 @@ if pla12:
     st.image("Solar_System.gif",caption="Solar System")
     all()
 
-"""if pla=="Sun":
-    st.image("36dg.gif",caption="The Sun")
-    starsun()
-elif pla=="Mercury":
-    st.image("Mercury.gif",caption="Mercury")
-    merc()
-elif pla=="Venus":
-    st.image("venus.gif",caption="Venus")
-    ven()
-elif pla=="Earth":
-    st.image("Earth.gif",caption="Earth")
-    ear()
-elif pla=="Mars":
-    st.image("Mars.gif",caption="Mars")
-    mar()
-elif pla=="Jupiter":
-    st.image("Jupiter.gif",caption="Jupiter")
-    jup()
-elif pla=="Saturn":
-    st.image("Saturn.gif",caption="Saturn")
-    sat()
-elif pla=="Uranus":
-    st.image("Uranus.gif",caption="Uranus")
-    ura()
-elif pla=="Neptune":
-    st.image("Neptune.gif",caption="Neptune")
-    nep()
-elif pla=="Pluto":
-    st.image("Pluto.gif",caption="Pluto")
-    plu()
-elif pla=="All":
-    st.image("Solar_System.gif",caption="Solar System")
-    all()
-elif pla=="Haleys Comet":
-    st.image("Halleys_Comet.gif",caption="Halley's Comet")
-    halc()"""
-
+ 
 
