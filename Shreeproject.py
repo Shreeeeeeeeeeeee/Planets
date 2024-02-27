@@ -459,7 +459,7 @@ def all():
     plt.ylabel("y-axis")
     plt.axis("equal")
 
-    plt.title("Solar System  (202235)")
+    plt.title("Solar System ")
     plt.savefig("Solar System.png", dpi=500)
     plt.grid()
     plt.savefig('graph.jpg')
@@ -479,7 +479,6 @@ def halc():
     plt.ylabel("y-axis")
     plt.axis("equal")
 
-    plt.title("Solar System  (202235)")
     plt.savefig("Solar System.png", dpi=500)
     sun = np.linspace(0, 2 * np.pi, 5000)
     a = 0.00464
