@@ -499,13 +499,13 @@ def halc():
     st.image('graph.jpg')
 
 if pla1 :
-     st.image("36dg.gif",caption="The Sun")
+    st.image("36dg.gif",caption="The Sun")
     starsun()
 if pla2:
     st.image("Mercury.gif",caption="Mercury")
     merc()
 if pla3:
-     st.image("venus.gif",caption="Venus")
+    st.image("venus.gif",caption="Venus")
     ven()
 if pla4:
     st.image("Earth.gif",caption="Earth")
@@ -520,13 +520,13 @@ if pla7:
     st.image("Saturn.gif",caption="Saturn")
     sat()
 if pla8:
-     st.image("Uranus.gif",caption="Uranus")
+    st.image("Uranus.gif",caption="Uranus")
     ura()
 if pla9:
     st.image("Neptune.gif",caption="Neptune")
     nep()
 if pla10:
-     st.image("Pluto.gif",caption="Pluto")
+    st.image("Pluto.gif",caption="Pluto")
     plu()
 if pla11:
      st.image("Halleys_Comet.gif",caption="Halley's Comet")
