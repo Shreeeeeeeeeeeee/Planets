@@ -529,7 +529,7 @@ if pla10:
     st.image("Pluto.gif",caption="Pluto")
     plu()
 if pla11:
-     st.image("Halleys_Comet.gif",caption="Halley's Comet")
+    st.image("Halleys_Comet.gif",caption="Halley's Comet")
     halc()
 if pla12:
      st.image("Solar_System.gif",caption="Solar System")
